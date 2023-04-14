@@ -1,4 +1,4 @@
-# Dataset - https://github.com/codebrainz/color-names/blob/master/output/colors.csv
+
 
 import cv2
 import pandas as pd
